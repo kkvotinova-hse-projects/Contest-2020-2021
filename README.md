@@ -4,3 +4,7 @@
   2. Fermat test
 ## [Task 2](https://github.com/kkvotinova/Contest-Numbers/blob/main/Task_2.cpp)
 GCD — greatest common divisor
+
+# 19SE_Lab1_StringMatching
+## [Task 1](https://github.com/kkvotinova/Contest-2021/blob/main/Task_1.java)
+Rabin-Karp Algorithm
